@@ -29,7 +29,7 @@ public class hackerDictionary {
          
          if(s.equals("Q") || s.equals("q"))
          {
-             System.out.println("Quitting!!!");
+            // System.out.println("Quitting!");
                      break;
          }
              else
