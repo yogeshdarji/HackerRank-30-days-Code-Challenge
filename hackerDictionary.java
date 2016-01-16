@@ -39,7 +39,7 @@ public class hackerDictionary {
             
        int n= al.size();
        System.out.println("The contents of array list = "+al);
-       
+       //Check if present in dictionary
        for(int i=0;i<n;i++)
        {
            if(d.containsKey(al.get(i)))
