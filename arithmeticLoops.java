@@ -26,6 +26,7 @@ public class ForLoops {
             System.out.println(sum+" ");
             for(int k=1;k<N[j];k++)
             {
+                //Actual sum
              sum = (int) (sum + Math.pow(2, k)*b[j]);
              System.out.print(sum+" ");
             }
