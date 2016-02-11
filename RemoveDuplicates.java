@@ -13,9 +13,11 @@ public class RemoveDuplicates {
         ListNode prev = head;
         ListNode p = head.next;
         
+        
         while(p!=null)
         {
-            if(prev.val==p.val)
+            
+            if(prev.val==p.val)  //Check for duplicates
             {
                 prev.next=p.next;
                 p=p.next;
