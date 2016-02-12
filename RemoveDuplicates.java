@@ -2,6 +2,8 @@
  *
  * @author yogeshdarji
  */
+ 
+ //Function to remove duplicates
 public class RemoveDuplicates {
     
     public static ListNode deleteDuplicates(ListNode head)
