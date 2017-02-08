@@ -10,7 +10,7 @@ public class ForLoops {
          int b[] = new int[100];
          int N[] = new int[100];
          
-      //  System.out.println("n="+n);
+      
         for(int i=0;i<n;i++)
         {
                 a[i] = sc.nextInt();
