@@ -12,6 +12,7 @@ class Node{
 	}
 }
 
+//To calculate max height of binary tree 
 public class HeightBinaryTree {
 
 	Node root;
