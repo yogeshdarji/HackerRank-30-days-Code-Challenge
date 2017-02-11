@@ -1,7 +1,5 @@
 package hackerrankTrees;
 
-import javax.swing.tree.TreeNode;
-
 public class InsertInBST {
 
 	Node root;
